@@ -3,12 +3,12 @@ name: "vity"
 author: "Alexandre Delille <adelille@student.42.fr> (https://github.com/Alexdelia)"
 variant: "dark"
 palette:
-  base00: "111012" # default background
-  base01: "0d1117" # lighter background
-  base02: "4f6666" # selection background
+  base00: "120512" # default background
+  base01: "202020" # lighter background
+  base02: "333333" # selection background
   base03: "5a4763" # line highlighting
-  base04: "4f6666" # dark foreground
-  base05: "e6edf3" # default foreground
+  base04: "404040" # dark foreground
+  base05: "c9e8e8" # default foreground
   base06: "ffd0eb" # light foreground
   base07: "ffffff" # lightest foreground
 
