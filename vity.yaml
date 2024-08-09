@@ -8,7 +8,7 @@ palette:
   base02: "333333" # selection background
   base03: "5a4763" # line highlighting
   base04: "808080" # dark foreground
-  base05: "f7f7f7" # default foreground
+  base05: "e0e0e0" # default foreground
   base06: "ffd1ff" # light foreground
   base07: "ffffff" # lightest foreground
 
