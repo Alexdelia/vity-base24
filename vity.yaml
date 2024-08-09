@@ -7,7 +7,7 @@ palette:
   base01: "202020" # lighter background
   base02: "333333" # selection background
   base03: "5a4763" # line highlighting
-  base04: "404040" # dark foreground
+  base04: "808080" # dark foreground
   base05: "c9e8e8" # default foreground
   base06: "ffd0eb" # light foreground
   base07: "ffffff" # lightest foreground
