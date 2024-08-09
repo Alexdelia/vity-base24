@@ -3,7 +3,7 @@ name: "vity"
 author: "Alexandre Delille <adelille@student.42.fr> (https://github.com/Alexdelia)"
 variant: "dark"
 palette:
-  base00: "120512" # default background
+  base00: "111111" # default background
   base01: "202020" # lighter background
   base02: "333333" # selection background
   base03: "5a4763" # line highlighting
