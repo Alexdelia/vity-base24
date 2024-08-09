@@ -1,0 +1,33 @@
+system: "base24"
+name: "vity"
+author: "Alexandre Delille <adelille@student.42.fr> (https://github.com/Alexdelia)"
+variant: "dark"
+palette:
+  base00: "111012" # default background
+  base01: "0d1117" # lighter background
+  base02: "4f6666" # selection background
+  base03: "5a4763" # line highlighting
+  base04: "4f6666" # dark foreground
+  base05: "e6edf3" # default foreground
+  base06: "ffd0eb" # light foreground
+  base07: "ffffff" # lightest foreground
+
+  base08: "d32f2f" # red
+  base09: "ff9800" # orange
+  base0A: "ffeb3b" # yellow
+  base0B: "47d823" # green
+  base0C: "23d8c9" # cyan
+  base0D: "0e18b6" # blue
+  base0E: "a020f0" # purple
+
+  base0F: "960707" # dark red
+
+  base10: "0c0c0c" # darker background
+  base11: "110214" # darkest background (less dark, not conventional)
+
+  base12: "ff0000" # bright red
+  base13: "ffdb38" # bright yellow
+  base14: "7aff00" # bright green
+  base15: "7ffcf9" # bright cyan
+  base16: "5700ff" # bright blue
+  base17: "ff00ff" # bright purple
